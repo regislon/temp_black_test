@@ -1,0 +1,7 @@
+time: 'str'
+status: 'int8'
+interval: 'uint8'
+raw_drop_number: 'str'
+RI: 'float32'
+RA: 'float32'
+RAT: 'float32'

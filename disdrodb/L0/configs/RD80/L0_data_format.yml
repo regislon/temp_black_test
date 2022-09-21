@@ -1,0 +1,57 @@
+time:
+  n_digits: null
+  n_characters: null
+  n_decimals: null
+  n_naturals: null
+  data_range: null
+  nan_flags: null
+status:
+  n_digits: null
+  n_characters: null
+  n_decimals: null
+  n_naturals: null
+  data_range: null
+  nan_flags: null
+interval:
+  n_digits: 4
+  n_characters: 0
+  n_decimals: 4
+  n_naturals: 0
+  data_range:
+  - 0
+  - 9999
+  nan_flags: null
+raw_drop_number:
+  n_digits: 0
+  n_characters: null # To change
+  n_decimals: 0
+  n_naturals: 0
+  data_range: null
+  nan_flags: null
+RI:  
+  n_digits: 8
+  n_characters: 1
+  n_decimals: 3
+  n_naturals: 4
+  data_range:
+  - 0
+  - 999.9999
+  nan_flags: null
+RA:  
+  n_digits: 7
+  n_characters: 1
+  n_decimals: 2
+  n_naturals: 4
+  data_range:
+  - 0
+  - 99.9999
+  nan_flags: null
+RAT:
+  n_digits: 7
+  n_characters: 1
+  n_decimals: 2
+  n_naturals: 4
+  data_range:
+  - 0
+  - 99.9999
+  nan_flags: null

@@ -1,0 +1,53 @@
+status:
+    dtype: uint8
+    zlib: true
+    complevel: 3
+    shuffle: true
+    fletcher32: false
+    contiguous: false
+    chunksizes: 5000
+    _FillValue: 254
+interval:
+    dtype: uint8
+    zlib: true
+    complevel: 3
+    shuffle: true
+    fletcher32: false
+    contiguous: false
+    chunksizes: 5000
+    _FillValue: 254
+raw_drop_number:
+  dtype: uint64
+  zlib: true
+  complevel: 3
+  shuffle: true
+  fletcher32: false
+  contiguous: false
+  _FillValue: 18446744073709551614
+  chunksizes:
+  - 5000
+  - 20
+RI:
+    dtype: float32
+    zlib: true
+    complevel: 3
+    shuffle: true
+    fletcher32: false
+    contiguous: false
+    chunksizes: 5000
+RA: 
+    dtype: float32
+    zlib: true
+    complevel: 3
+    shuffle: true
+    fletcher32: false
+    contiguous: false
+    chunksizes: 5000
+RAT: 
+    dtype: float32
+    zlib: true
+    complevel: 3
+    shuffle: true
+    fletcher32: false
+    contiguous: false
+    chunksizes: 5000
